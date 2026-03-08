@@ -9,7 +9,7 @@
         <a href="#home" class="flex items-center gap-2 group" @click.prevent="scrollToSection('home')">
           <!-- Logo Typography -->
           <span class="text-xl tracking-tight font-extrabold bg-gradient-to-r from-lavender-600 via-indigo-500 to-pastel-500 dark:from-lavender-400 dark:via-indigo-400 dark:to-pastel-300 bg-clip-text text-transparent group-hover:opacity-80 transition-opacity duration-300">
-            rasasaufar.site
+            rasasaufar
           </span>
         </a>
 

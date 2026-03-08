@@ -25,7 +25,7 @@
           <div class="space-y-4">
             <a href="#home" class="inline-flex items-center group cursor-pointer" @click.prevent="scrollToSection('home')">
               <span class="text-2xl tracking-tight font-extrabold bg-gradient-to-r from-lavender-600 via-indigo-500 to-pastel-500 dark:from-lavender-400 dark:via-indigo-400 dark:to-pastel-300 bg-clip-text text-transparent group-hover:opacity-80 transition-opacity duration-300">
-                rasasaufar.site
+                rasasaufar
               </span>
             </a>
             <p class="text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
